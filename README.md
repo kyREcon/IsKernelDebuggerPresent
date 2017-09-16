@@ -4,8 +4,8 @@ WTF?!?
 ------
 Detects if a Kernel mode debugger is active by reading the value of KUSER_SHARED_DATA.KdDebuggerEnabled. 
 It is a high level and portable implementation  between 32 and 64-bit architectures which has several
-advantages compared to abusing NtQuerySystemInformation as described in the following article:
-http://www.anti-reversing.com/detecting-kmds-with-a-single-instruction/
+advantages compared to abusing NtQuerySystemInformation as described in the following article: 
+www.anti-reversing.com/detecting-kmds-with-a-single-instruction/
 
 The KUSER_SHARED_DATA is always located in userland at address 0x7FFE0000 in the virtual
 address space of every process. Furthemore, the relative offset of KdDebuggerEnabled member
