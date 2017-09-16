@@ -26,12 +26,12 @@ Disclaimer
 
 I wrote this for fun to use in other private projects. Use at your own risk.
 
-　
+
 Author
 ------
 Author: Kyriakos Economou (@kyREcon) / www.anti-reversing.com
 
-　
+
 MIT License
 -----------
 
