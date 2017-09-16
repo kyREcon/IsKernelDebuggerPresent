@@ -12,7 +12,4 @@ int IsKernelDebuggerPresent()
 	{
 		return INVALID_PTR;
 	}
-	
-
-
 }
