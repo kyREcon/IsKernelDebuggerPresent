@@ -20,9 +20,10 @@ else due to an internal update in Windows, then the result returned by the funct
 That being said, you should verify yourself that the above information remains valid before
 using this method.
 
-　
+
 Disclaimer
 ----------
+
 I wrote this for fun to use in other private projects. Use at your own risk.
 
 　
